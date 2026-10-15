@@ -47,7 +47,21 @@ python corrida.py
 python corrida.py
 
 -----------------------------------------------------------------------
+Resultado
 
+PS C:\Users\aluno\Documents\aula5> python corrida.py
+Saldo esperado: 500
+Saldo obtido: 500
+PS C:\Users\aluno\Documents\aula5> python corrida.py
+Saldo esperado: 500
+Saldo obtido: 1000
+PS C:\Users\aluno\Documents\aula5> python corrida.py
+Saldo esperado: 500
+Saldo obtido: 1000
+PS C:\Users\aluno\Documents\aula5> python corrida.py
+Saldo esperado: 500
+Saldo obtido: 1000
+PS C:\Users\aluno\Documents\aula5> 
 
 
 
